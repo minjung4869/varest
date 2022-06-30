@@ -18,8 +18,8 @@
       "CTRL_R_eye_blink": 0.0
     },
     {
-      "CTRL_C_jaw": 1.0,
-      "CTRL_R_eye_blink": 1.0
+      "CTRL_C_jaw": 0.5,
+      "CTRL_R_eye_blink": 0.5
     }
   ]
 }
