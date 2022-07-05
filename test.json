@@ -1,24 +1,44 @@
 {
   "weightMat": [
     {
-      "CTRL_C_jaw": 0.17478056,
-      "CTRL_R_eye_blink": 0.0
+      "CTRL_C_jaw": 0.0,
+      "CTRL_L_mouth_purseU": 0.0
     },
     {
-      "CTRL_C_jaw": 0.20279613,
-      "CTRL_R_eye_blink": 0.0
+      "CTRL_C_jaw": 0.03712,
+      "CTRL_L_mouth_purseU": 0.1632
     },
     {
-      "CTRL_C_jaw": 0.21563756,
-      "CTRL_R_eye_blink": 0.5
+      "CTRL_C_jaw": 0.07424,
+      "CTRL_L_mouth_purseU": 0.3264
     },
     {
-      "CTRL_C_jaw": 0.22202854,
-      "CTRL_R_eye_blink": 0.0
+      "CTRL_C_jaw": 0.11136,
+      "CTRL_L_mouth_purseU": 0.4896
     },
     {
-      "CTRL_C_jaw": 0.14041927,
-      "CTRL_R_eye_blink": 0.0
-    }
+      "CTRL_C_jaw": 0.14848,
+      "CTRL_L_mouth_purseU": 0.45648
+    },
+    {
+      "CTRL_C_jaw": 0.1856,
+      "CTRL_L_mouth_purseU": 0.42336
+    },
+    {
+      "CTRL_C_jaw": 0.205333333333333,
+      "CTRL_L_mouth_purseU": 0.39024
+    },
+    {
+      "CTRL_C_jaw": 0.225066666666666,
+      "CTRL_L_mouth_purseU": 0.35712
+    },
+    {
+      "CTRL_C_jaw": 0.2448,
+      "CTRL_L_mouth_purseU": 0.324
+    },
+    {
+      "CTRL_C_jaw": 0.264533333333333,
+      "CTRL_L_mouth_purseU": 0.303
+    }    
   ]
 }
